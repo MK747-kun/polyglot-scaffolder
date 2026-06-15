@@ -1,0 +1,7 @@
+# Polyglot Scaffolder Configuration
+project_name: "my_polyglot_app"
+
+databases:
+  sql: true
+  mongodb: true
+  neo4j: false
